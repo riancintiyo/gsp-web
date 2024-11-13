@@ -1,4 +1,7 @@
-<<<<<<< HEAD
+# gsp-web
+
+The General Science Program (GSP) 2024 is a dedicated program to fostering a love for learning and creativity among elementary school children in rural areas. 
+
 # sv
 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
@@ -37,7 +40,4 @@ npm run build
 You can preview the production build with `npm run preview`.
 
 > To deploy your app, you may need to install an [adapter](https://svelte.dev/docs/kit/adapters) for your target environment.
-=======
-# gsp-web
-The General Science Program (GSP) 2024 is a dedicated program to fostering a love for learning and creativity among elementary school children in rural areas. 
->>>>>>> origin/main
+
